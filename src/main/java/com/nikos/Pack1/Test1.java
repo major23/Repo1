@@ -7,7 +7,6 @@ package com.nikos.Pack1;
 public class Test1 {
 
     /**sdfgdfd.
-     * 
      */
     public static void show() {
         System.out.println();
