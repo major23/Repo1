@@ -1,5 +1,9 @@
 package com.nikos.Pack2;
 
+/**
+ * @author nikos
+ *
+ */
 public class Test2 {
 
     public static void show() {
