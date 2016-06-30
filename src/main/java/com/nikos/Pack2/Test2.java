@@ -6,8 +6,7 @@ package com.nikos.Pack2;
  */
 public class Test2 {
 
-
-    /**fgdfgdf
+    /**fgdfgdf.
      * 
      */
     public static void show() {
