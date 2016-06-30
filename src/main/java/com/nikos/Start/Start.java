@@ -14,8 +14,10 @@ public class Start {
      * @param args
      */
     public static void main(final String[] args) {
-        Test1.show();
-        Test2.show();
+        Test1 a = new Test1();
+        a.show();
+        Test2 b = new Test2();
+        b.show();
     }
 
 }

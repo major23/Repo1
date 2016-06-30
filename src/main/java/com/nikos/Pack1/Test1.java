@@ -8,7 +8,7 @@ public class Test1 {
 
     /**sdfgdfd.
      */
-    public static void show() {
+    public void show() {
         System.out.println();
         System.out.println("DEVELOP: Test1 class printing...");
         System.out.println();
