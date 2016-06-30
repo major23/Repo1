@@ -8,7 +8,7 @@ import com.nikos.Pack2.Test2;
 /**
  * @author nikos
  */
-public class Start {
+class Start {
 
     /**Main class.
      * @param args

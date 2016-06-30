@@ -4,7 +4,7 @@ package com.nikos.Pack1;
  * @author nikos
  *
  */
-public class Test1 {
+public final class Test1 {
 
     /**sdfgdfd.
      */
