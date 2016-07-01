@@ -6,6 +6,13 @@
   <name>Project1</name>
   
   
+  
+  <properties>
+		<prop1>PROPERTY1</prop1>
+  	</properties>
+  
+  
+  
   <build>
  		<plugins>
 			<!-- Run Using Main Class -->
