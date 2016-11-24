@@ -10,7 +10,7 @@ public final class Test1 {
      */
     public static void show() {
         System.out.println();
-        System.out.println("DEVELOP: Test1 class printing...UPD no7");
+        System.out.println("DEVELOP: Test1 class printing...UPD no8");
         System.out.println();
     }
 
